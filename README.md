@@ -1,8 +1,5 @@
-Hello, everybody!<br>
-This is my final project of the data analysis course that I took from Nov 2024 to Apr 2025.<br>
-I analized mobile gaming application:<br>
-a) wrote retention rate calculating and visualizing function<br>
-b) analized results of promotional kits A/B testing (2 t-tests and 1 z-test)<br>
-c) suggested metrics to analise promotional activities to upgrade users levels<br><br>
-
-Sorry, it is in Russian, as soon as I translate it I'll let you know.
+Всем привет!
+Для компании по разработке мобильных игр я:
+1) Написал функцию расчета retention rate в заданный временной промежуток
+2) Выявил статзначимость результатов A/B-теста нововведенной маркетинговой программы
+3) Предложить метрики для оценки активностей, когда за прохождение нескольких уровней на время игрок получает различные бонусы. В результате непрохождения может быть 2 исхода: игрок остается на своем уровне или игрок откатывается назад.
